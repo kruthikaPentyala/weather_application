@@ -55,6 +55,6 @@ Just open the index.html file in your browser.
 
 ### 📸 Screenshots
 
-![Description](demo/home.png)
+![Home](demo/home.png)
 
 
